@@ -1,0 +1,13 @@
+<?php
+echo phpinfo();
+echo 234;
+echo 124;
+<<<<<<< HEAD
+echo 12343;die;
+echo 234;die;
+=======
+echo "asf";
+echo 213;die;
+echo 232;
+>>>>>>> d07ab66a5c0bff59526affc44077dd2591500bda
+?>
